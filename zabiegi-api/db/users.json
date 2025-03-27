@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "name": "Administrator",
+      "role": "adm"
+    },
+    {
+      "id": 2,
+      "username": "lekarz",
+      "password": "123",
+      "name": "Anna Nowak",
+      "role": "lek"
+    },
+    {
+      "id": 3,
+      "username": "piel",
+      "password": "123",
+      "name": "Maria Pies",
+      "role": "piel"
+    },
+    {
+      "id": 4,
+      "username": "rej",
+      "password": "123",
+      "name": "Kacper Borek",
+      "role": "rej"
+    }
+  ]
+  
